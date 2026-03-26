@@ -1,0 +1,20 @@
+
+p 
+{ 
+color:red; 
+font-size:22pt; 
+} 
+p#gruby_spitsarev
+{
+font-weight: bold;
+font-size:17pt; 
+color:red; 
+}
+h1#dlawszystkich
+{
+background-color: black;
+font-family:Arial;
+font-size:10pt;
+color:yellow;
+}
+
